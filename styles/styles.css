@@ -67,7 +67,3 @@ h1 {
         width: 80vw;
     }
 }
-
-@media (min-width: var(--desktop-width)) {
-    
-}
